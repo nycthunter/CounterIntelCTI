@@ -1,6 +1,5 @@
 <h1 align="center">🕵️ DW IRC Chat Forums</h1>
-<h2>🧠 Purpose</h2>
-<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
+
 <h2>📋 Onion List</h2>
 <table>
   <thead>
@@ -29,5 +28,3 @@
   </tbody>
 </table>
 
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
