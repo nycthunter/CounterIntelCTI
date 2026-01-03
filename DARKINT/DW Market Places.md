@@ -1,6 +1,5 @@
 <h1 align="center">🕵️ Darkweb E Market Places Forums</h1>
-<h2>🧠 Purpose</h2>
-<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
+
 <h2>📋 Onlion Forums List</h2>
 <table>
   <thead>
@@ -33,5 +32,3 @@
 <tr><td>Market XYZ</td><td><a href="http://marketxyz.onion/">http://marketxyz.onion/</a></td><td>200</td><td>Market Place</td></tr>
 </table>
 
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
