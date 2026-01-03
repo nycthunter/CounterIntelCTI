@@ -1,6 +1,5 @@
 <h1 align="center">🕵️ Dark Web General Forums</h1>
-<h2>🧠 Purpose</h2>
-<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
+
 <h2>📋 Onion Forums List</h2>
 <table>
   <thead>
@@ -79,6 +78,3 @@
 <tr><td>M</td><td><a href="http://le24h23xgvgosmihojf2clfwgtmczq2t6s3cf556uq7mj3orh3n6glyd.onion/signin">http://le24h23xgvgosmihojf2clfwgtmczq2t6s3cf556uq7mj3orh3n6glyd.onion/signin</a></td><td>200</td><td>—</td></tr>
 <tr><td>libreddit</td><td><a href="http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion/">http://ecue64ybzvn6vjzl37kcsnwt4ycmbsyf74nbttyg7rkc3t3qwnj7mcyd.onion/</a></td><td>200</td><td>—</td></tr>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
