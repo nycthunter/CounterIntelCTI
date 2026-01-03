@@ -33,6 +33,3 @@
 <tr><td>DarkNet Forum</td><td><a href="http://dnforum.onion/">http://dnforum.onion/</a></td><td>200</td><td>Discussion Forum</td></tr>
 <tr><td>Crypto Forum</td><td><a href="http://cryptoforum.onion/">http://cryptoforum.onion/</a></td><td>200</td><td>Crypto discussion</td></tr>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
