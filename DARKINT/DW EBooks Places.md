@@ -1,6 +1,5 @@
 <h1 align="center">🕵️ Dark Web E Books Forums</h1>
-<h2>🧠 Purpose</h2>
-<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
+
 <h2>📋 Onion Forums List</h2>
 <table>
   <thead>
@@ -24,6 +23,3 @@
 <tr><td>Dark Library</td><td><a href="http://darklibrary.onion/">http://darklibrary.onion/</a></td><td>200</td><td>Ebooks and resources</td></tr>
 <tr><td>LibOnion</td><td><a href="http://libonion.onion/">http://libonion.onion/</a></td><td>200</td><td>Ebooks library</td></tr>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
