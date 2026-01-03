@@ -1,6 +1,5 @@
 <h1 align="center">🕵️ Darkweb Encrypted Chat Places Forums</h1>
-<h2>🧠 Purpose</h2>
-<p>For <b>Cybersecurity Research</b>, <b>OSINT Investigations</b>, <b>Journalism</b>, and <b>Education purpose</b> only.</p>
+
 <h2>📋 Onion Forums List</h2>
 <table>
   <thead>
@@ -24,6 +23,3 @@
 <tr><td>Secure Chat</td><td><a href="http://securechat.onion/">http://securechat.onion/</a></td><td>200</td><td>Encrypted Chat</td></tr>
 <tr><td>Crypto Chat</td><td><a href="http://cryptochat.onion/">http://cryptochat.onion/</a></td><td>200</td><td>Encrypted Chat</td></tr>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
