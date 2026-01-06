@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🕵️ Dark Web The Onion Link Checker</h1>
+<h1 align="center">🕵️ Onion Link Checker</h1>
 
 <h2>📋 Onion Forums List</h2>
 <table>
