@@ -1,4 +1,4 @@
-<h1 align="center">🕵️ DW Pastebin Forums</h1>
+<h1 align="center">🕵️ Pastebin Sites</h1>
 
 <h2>📋 Onion List</h2>
 <table>
