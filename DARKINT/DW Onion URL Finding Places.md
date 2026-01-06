@@ -12,8 +12,6 @@
   </thead>
   <tbody>
 <tr><td>Hidden Wiki</td><td><a href="http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgf7k3du6y2z5xg3m.onion/">http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgf7k3du6y2z5xg3m.onion/</a></td><td>200</td><td>Directory of onion sites</td></tr>
-<tr><td>TorLinks</td><td><a href="http://torlinkbgs6aabns.onion/">http://torlinkbgs6aabns.onion/</a></td><td>200</td><td>Directory of onion sites</td></tr>
-<tr><td>Bitcoin Onion</td><td><a href="http://btconionforum.onion/">http://btconionforum.onion/</a></td><td>200</td><td>Bitcoin Forum</td></tr>
 <tr><td>Dark Wiki</td><td><a href="http://findtoowrvvx37stwfnd5vdk6lvdrzj27veki2zilr6565gbcx5fk2yd.onion/search?page=2)">http://findtoowrvvx37stwfnd5vdk6lvdrzj27veki2zilr6565gbcx5fk2yd.onion/search?page=2/</a></td><td>200</td><td>find onion sites here </td></tr>
     
 </table>
