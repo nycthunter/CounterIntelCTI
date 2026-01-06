@@ -1,4 +1,4 @@
-<h1 align="center">🕵️ Dark Web The Red Rooms</h1>
+<h1 align="center">🕵️ The Red Rooms</h1>
 
 <h2>📋 Onion Forums List</h2>
 <table>
