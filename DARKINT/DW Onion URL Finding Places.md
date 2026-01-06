@@ -11,7 +11,7 @@
     </tr>
   </thead>
   <tbody>
-<tr><td>Hidden Wiki</td><td><a href="http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgf7k3du6y2z5xg3m.onion/">http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgf7k3du6y2z5xg3m.onion/</a></td><td>200</td><td>Directory of onion sites</td></tr>
+<tr><td>Just Onion</td><td><a href="http://justdirs5iebdkegiwbp3k6vwgwyr5mce7pztld23hlluy22ox4r3iad.onion/">http://justdirs5iebdkegiwbp3k6vwgwyr5mce7pztld23hlluy22ox4r3iad.onion/</a></td><td>200</td><td>Search for Darkweb/Deepweb Links</td></tr>
 <tr><td>Find Tor Links</td><td><a href="http://findtoowrvvx37stwfnd5vdk6lvdrzj27veki2zilr6565gbcx5fk2yd.onion/search?page=2)">http://findtoowrvvx37stwfnd5vdk6lvdrzj27veki2zilr6565gbcx5fk2yd.onion/search?page=2/</a></td><td>200</td><td>find onion sites here </td></tr>
     
 </table>
