@@ -13,5 +13,5 @@
     </tr>
   </thead>
   <tbody>
-<tr><td>Hidden Wiki</td><td><a href="http://checkisnagwdnhozpupqz7eue26cne5xx7ndvutuzt7xkn3xft76fcqd.onion/">http://checkisnagwdnhozpupqz7eue26cne5xx7ndvutuzt7xkn3xft76fcqd.onion/</a></td><td>200</td><td>Check it Onion</td></tr>
+<tr><td>Check it Onion</td><td><a href="http://checkisnagwdnhozpupqz7eue26cne5xx7ndvutuzt7xkn3xft76fcqd.onion/">http://checkisnagwdnhozpupqz7eue26cne5xx7ndvutuzt7xkn3xft76fcqd.onion/</a></td><td>200</td><td>Check if onion site is live or not</td></tr>
 </table>
