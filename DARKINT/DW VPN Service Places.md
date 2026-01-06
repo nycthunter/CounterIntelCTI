@@ -1,4 +1,4 @@
-<h1 align="center">🕵️ Dark Web VPN Service Forums</h1>
+<h1 align="center">🕵️ VPN Service Forums</h1>
 
 <h2>📋 Onion Forums List</h2>
 <table>
