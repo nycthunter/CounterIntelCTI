@@ -30,5 +30,8 @@
 <tr><td>Secure Market</td><td><a href="http://securemarketxyz.onion/">http://securemarketxyz.onion/</a></td><td>200</td><td>Market Place</td></tr>
 <tr><td>Dark Market</td><td><a href="http://darkmarketabc.onion/">http://darkmarketabc.onion/</a></td><td>200</td><td>Market Place</td></tr>
 <tr><td>Market XYZ</td><td><a href="http://marketxyz.onion/">http://marketxyz.onion/</a></td><td>200</td><td>Market Place</td></tr>
+<tr><td>Crypto Market</td><td><a href="http://qmr22z7pscrtxsnlxfvwkmwtp3m3koyoltytihjay6njs5uxrf5ogvid.onion/">http://qmr22z7pscrtxsnlxfvwkmwtp3m3koyoltytihjay6njs5uxrf5ogvid.onion/</a></td><td>200</td><td>Market Place</td></tr>
+<tr><td>Dark Bargain Market</td><td><a href="http://bapcbd7r5kxp6beaqx4ghhrzipe7yyvml6blrgc7f4js4yptbwnl46qd.onion/">http://bapcbd7r5kxp6beaqx4ghhrzipe7yyvml6blrgc7f4js4yptbwnl46qd.onion/</a></td><td>200</td><td>Market Place</td></tr>
+<tr><td>Pablo Escobar Market</td><td><a href="http://d6om3xbmwg4xoibtj77nkuevcnzbwpfzueei2cw434p6mbwnb5j2meid.onion/">http://d6om3xbmwg4xoibtj77nkuevcnzbwpfzueei2cw434p6mbwnb5j2meid.onion/</a></td><td>200</td><td>Market Place</td></tr>
 </table>
 
