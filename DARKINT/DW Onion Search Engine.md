@@ -16,4 +16,8 @@
 <tr><td>Darknetexplorer</td><td><a href="http://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/">http://danexio627wiswvlpt6ejyhpxl5gla5nt2tgvgm2apj2ofrgm44vbeyd.onion/</a></td><td>200</td><td>Search for onion links</td></tr>
 <tr><td>Find Your Onion</td><td><a href="http://fyonionsqkae65mfxsgvp3fu4q2aegdrz3dh5ocjlbjrfybpqywgshad.onion/">http://fyonionsqkae65mfxsgvp3fu4q2aegdrz3dh5ocjlbjrfybpqywgshad.onion/</a></td><td>200</td><td>Darknet Search Engine</td></tr>
 <tr><td>Ahmia</td><td><a href="http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/">http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/</a></td><td>200</td><td>Search Engine</td></tr>
+<tr><td>Darkeb net</td><td><a href="https://deepweb.net/">https://deepweb.net/</a></td><td>200</td><td>Directory</td></tr>
+<tr><td>EXCAVATOR</td><td><a href="http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/">http://2fd6cemt4gmccflhm6imvdfvli3nf7zn6rfrwpsy7uhxrgbypvwf5fad.onion/</a></td><td>200</td><td>Search Engine</td></tr>
+<tr><td>TorLand</td><td><a href="http://torlbmqwtudkorme6prgfpmsnile7ug2zm4u3ejpcncxuhpu4k2j4kyd.onion/">http://torlbmqwtudkorme6prgfpmsnile7ug2zm4u3ejpcncxuhpu4k2j4kyd.onion/</a></td><td>200</td><td>Directory</td></tr>
+<tr><td>Torch</td><td><a href="http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/">http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/</a></td><td>404</td><td>Search Engine</td></tr>
 </table>
