@@ -270,6 +270,3 @@
 <tr><td>Gonjeshke Darandew</td><td><code>https://x.com/GonjeshkeDarand</code></td><td align="center">200</td><td>Cybersecurity intelligence & monitoring</td></tr>
  </tbody>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
