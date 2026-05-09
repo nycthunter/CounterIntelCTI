@@ -31,6 +31,3 @@
 <tr><td>Darkpronet (mirror)</td><td><code>https://darkpro.net/</code></td><td align="center">200</td><td>Carding / market</td></tr>
 <tr><td>Leech</td><td><code>https://leech.is/</code></td><td align="center">200</td><td>Carding / underground forum</td></tr>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
