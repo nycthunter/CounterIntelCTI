@@ -27,6 +27,3 @@
 <tr><td>Veryleaks</td><td><code>https://veryleaks.cz/</code></td><td align="center">200</td><td>Leak / Breach forum</td></tr>
  </tbody>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
