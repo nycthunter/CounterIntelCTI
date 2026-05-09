@@ -46,6 +46,3 @@
 <tr><td>Gerki</td><td><code>https://forum.gerki.ws/</code></td><td align="center">200</td><td>General underground forum</td></tr>
 <tr><td>xforums</td><td><code>https://xforums.st/</code></td><td align="center">200</td><td>Tech / hacking forum</td></tr>
 </table>
-
-<h2>📦 About the Contributor</h2>
-<p>Maintained and curated by <a href="https://github.com/ulethon" target="_blank">@ulethon</a></p>
