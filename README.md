@@ -91,35 +91,6 @@ CounterIntelCTI/
 ✅ Beginner to Advanced Learning  
 ✅ Real-world Research References  
 
----
-
-# 🧠 Topics Covered
-
-## 🌐 OSINT
-- Search Engine Intelligence
-- Metadata Analysis
-- Username Enumeration
-- Domain Investigation
-- Email Tracking
-- Reverse Image Search
-- Public Records Research
-
-## 🕶️ DARKINT
-- Onion Search Engines
-- Underground Communities
-- Threat Actor Monitoring
-- Dark Web Awareness
-- Cybercrime Ecosystem Research
-
-## 📱 SOCMINT
-- Discord Intelligence
-- Telegram Monitoring
-- Social Network Analysis
-- Digital Footprint Mapping
-- Community Intelligence
-
----
-
 # ⚠️ Disclaimer
 
 This repository is created strictly for:
@@ -160,14 +131,6 @@ If you find this repository useful:
 - Give it a ⭐
 - Share it with the cybersecurity community
 - Contribute new resources
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 <div align="center">
 
